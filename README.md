@@ -39,3 +39,8 @@ Bonus points for the following:
 * Env
 * Terragrunt
 * Docker / ECS / EKS
+
+
+Time : 1 hour
+
+When you'r done you can send your repository by email to : Paul BAUDRIER <pbaudrier-ext@btp-consultants.fr> & Khalid GHALMI <khalid.ghalmi@btp-consultants.fr>
