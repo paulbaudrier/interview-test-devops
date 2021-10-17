@@ -2,7 +2,7 @@
 
 Hello candidate ! 
 
-Welcome to our Git Repo for basic skills tests for positions within our DevOps team. There are no wrong answers here, we're just trying to guage the type of person you are from a technical standpoint. To begin, simply Fork this repo, add your work and send us a link to your repo. Git best practices are highly appreciate.
+Welcome to our Git Repo for basic skills tests for positions within our DevOps team. There are no wrong answers here, we're just trying to guage the type of person you are from a technical standpoint. To begin, simply Fork this repo, add your work and send us a link to your repo. Git best practices are highly appreciated.
 
 Please use the following folder structure for this:
 
