@@ -19,7 +19,7 @@ Please use the following folder structure for this:
 
 ## Automation Test
 
-Using a tool of your choice such as Bash, Chef, Ansible or similar automate the installation of a Web Server serving up some static content. 
+Using Ansible automate the installation of a Web Server serving up some static content. 
 
 Bonus points for the following:
 
